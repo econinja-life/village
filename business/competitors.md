@@ -1,0 +1,19 @@
+- buycott - to bullying
+- http://carbonstory.org/ - track carbon footprint
+  - Facebook not active since 2015
+  - Very basic carbon calculator (asks about 15 questions)
+  - Allows you to sponsor (pay) other projects to offset footprint
+  - Maybe partner?
+- https://www.oroeco.com/ - connects app to your credit card accounts to calculate footprint across the entire lifecycle
+  - seems to focus on companies you purchase from, not individual products
+  - great visuals and dashboards and partners
+  - connects with https://www.mint.com/#sthash.cm79BT3w.dpuf to get credit and buying data
+- http://www.goodfishguide.org/ - guide for sustainable fishing
+- http://www.goodguide.com/ - rates items based on HEALTH CONCERNS, no longer environmental or social impact
+- https://www.ecodesk.com/ - corporate supply chain management
+- http://www.giveo2.com/ - Measures CO2 by tracking driving automatically (gps)
+- https://appsforenergy.devpost.com/submissions/7987-leafully - tracks energy usage (electricity and such)
+- https://itunes.apple.com/us/app/locavore/id306140158?mt=8 - find local and seasonal foods
+- https://play.google.com/store/apps/details?id=com.earth911.android&hl=en - find recycling
+- https://www.pharosproject.net/ - profiles materials for chemical components, focused heavily on corporate, paid
+- http://apparelcoalition.org/the-higg-index/ - group for sustainable apparel data

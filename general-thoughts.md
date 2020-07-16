@@ -1,0 +1,45 @@
+- Not just to make you feel bad for buying anything, but to make it fun to do well.
+  - Provide Alternatives
+  - Color schemes
+- Allow for people to send (stock) kudos or requests for companies to do better (sustainable palm oil).
+  - Allow them to SEE the message. (Provide three alternative messages) (anonymously) (send in batch)
+  - NOT freeform complaints. NOT giving out address for people to bullying them.
+- Use fun animal GIFs as the loading icons
+- Show animals and animal facts about "thank you for helping me."
+- Explain "why" or at least give links to more information about *why* these things are bad.
+- Account for Sustainable palm oil, and such
+- Allow verified moderators and companies to suggest corrections to data
+- Allow users to save to collection
+- History with preferences
+- Privacy or No-Sign-Up mode
+- Provide alternatives
+- Report Includes
+  - Aggregate score (color coded)
+  - Specific ingredients/processes with score
+  - Alternatives (with links)
+  - Tips on how to make it more friendly
+  - Other data
+- Start with badges and add to other stuff
+  - Say you bought it, picture of receipt, and lottery verification
+- Track you impact in "credits" so you can gauge where to fix
+  - Purchased Items
+  - Consumed Items
+- Power / Electricity
+- Travel
+- Gamified and Social
+- Earn badges
+- Share and stalk friends (via in app and social media)
+- Find, save, and classify content
+- Quizzes and Games with Environmental Facts and Tips
+- Bite Sized daily Tips
+- Articles and How-tos
+- Trusted Sources
+- Events and Meetups
+- Personalized Stream
+- Personalized (age-appropriate) Profiles
+
+## Monetizing
+- Own data
+- Unlock rebates (poll, quiz, video)
+- Advertising
+- Be very clear we can share your data

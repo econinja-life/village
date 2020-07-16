@@ -1,0 +1,3 @@
+- Crawlers: That routinely crawl data to queue
+- Workers: Pulling off the queue to process
+- Data Processor: Processes a (standardized) external source and persists it
